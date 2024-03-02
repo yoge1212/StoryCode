@@ -24,7 +24,7 @@ LeetCode Integration: By fetching data from the LeetCode API, the bot provides u
 - [@octokatherine](https://github.com/sivamshindukuri)
 - [@octokatherine](https://github.com/yoge1212)
 - [@octokatherine](https://github.com/johnyehia)
-- [@octokatherine](https://github.com/ksgupta27)
+- [@octokatherine](https://github.com/kshirajg27)
 
 
 
