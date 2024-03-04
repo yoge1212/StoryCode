@@ -21,10 +21,10 @@ LeetCode Integration: By fetching data from the LeetCode API, the bot provides u
 
 ## Authors
 
-- [@octokatherine](https://github.com/sivamshindukuri)
-- [@octokatherine](https://github.com/yoge1212)
-- [@octokatherine](https://github.com/johnyehia)
-- [@octokatherine](https://github.com/kshirajg27)
+- [@Sivamsh](https://github.com/sivamshindukuri)
+- [@Yogesh](https://github.com/yoge1212)
+- [@John](https://github.com/johnyehia)
+- [@Kshiraj](https://github.com/kshirajg27)
 
 
 
